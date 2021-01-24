@@ -1,6 +1,6 @@
 # CSS Course
 
-This repository consist on a series of exercises and tests that I've been working on as part of a CSS course.
+This repository consist on a series of exercises and tests that I've been working on as part of a CSS course. The original repository can be found here: https://github.com/christinatruong/css-essential-training. 
 
 ## Usage
 
